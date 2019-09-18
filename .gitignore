@@ -1,0 +1,6 @@
+/lombok.config
+/settings.gradle
+/build/
+/.gradle/
+/.idea/
+/gradle/
